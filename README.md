@@ -25,7 +25,7 @@ Hey, Netology
  
 ### Выполнения задания 1
 
-https://hub.docker.com/r/dextron1978/custom-nginx/tags
+Доступа нет к dockerhub (Но локально образ был пересобран)
 
 ----
 

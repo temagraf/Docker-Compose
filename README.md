@@ -25,7 +25,7 @@ Hey, Netology
  
 ### Выполнения задания 1
 
-Доступ отсутствует к dockerhub (Но локально образ был пересобран)
+https://hub.docker.com/r/dextron1978/custom-nginx/tags
 
 ----
 
